@@ -1,19 +1,19 @@
 ---
-VIP: <The number of the VIP. It will be added by the editors if approved.>
+VIP: <# of proposal, will be added by the editors if approved>
 Title: <The VIP title is a few words, not a complete sentence>
 Description: <Description is one full (short) sentence>
-Author: <a comma separated list of the authors name, For example, Name1(@GitHubName or email address), Name2(@GitHubName or email address)>
-Discussions: <URL in [discourse](https://vechain.discourse.org)>
-Category: <Core, Interface, Application or Information>
+Author: <List of the authors name, For example, Name1(@GitHubName or email address), Name2(@GitHubName or email address)>
+Discussions: <URL in discourse https://vechain.discourse.org>
+Category:  < Core, Application, Interface or Information >
 Status: Draft
 CreatedAt: <date created on, in ISO 8601 (yyyy-mm-dd) format>
----
 
+---
 
 # Overview
 
 <!--   
-  The Overview is a multi-sentence (short paragraph) technical summary. This should be a very terse and human-readable version of the specification section. Someone should be able to read only the abstract to get the gist of what this specification does.
+  The Overview is a multi-sentence (short paragraph) technical summary of the issue being addressed. This should be a very terse and human-readable version of the specification section. Someone should be able to read only the abstract to get the gist of what this specification does.
   TODO: Remove this comment before submitting 
 -->
 
@@ -21,6 +21,7 @@ CreatedAt: <date created on, in ISO 8601 (yyyy-mm-dd) format>
 # Rationale
 
 <!--
+
   The rationale fleshes out the specification by describing what motivated the design and why particular design decisions were made. It should describe alternate designs that were considered and related work, e.g. how the feature is supported in other languages.
   The current placeholder is acceptable for a draft.
   TODO: Remove this comment before submitting
@@ -38,7 +39,7 @@ CreatedAt: <date created on, in ISO 8601 (yyyy-mm-dd) format>
 # Specification
   
 <!--
-  The Specification section should describe the syntax and semantics of any new feature. The specification should be detailed enough to allow competing, interoperable implementations for any of the current Vechain platforms.
+  The Specification section should describe the syntax and semantics of any new feature. The specification should be detailed enough to allow competing, interoperable implementations.
   TODO: Remove this comment before submitting
 -->
 
