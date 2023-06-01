@@ -3,7 +3,7 @@ VIP: <# of proposal, will be added by the editors if approved>
 Title: <The VIP title is a few words, not a complete sentence>
 Description: <Description is one full (short) sentence>
 Author: <List of the authors name, For example, Name1(@GitHubName or email address), Name2(@GitHubName or email address)>
-Discussions: <URL in discourse https://vechain.discourse.org>
+Discussions: <URL>
 Category:  < Core, Application, Interface or Information >
 Status: Draft
 CreatedAt: <date created on, in ISO 8601 (yyyy-mm-dd) format>
