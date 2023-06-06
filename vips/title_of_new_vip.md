@@ -3,7 +3,7 @@ VIP:
 Title: The Ultimate State Pruner
 Description: This proposal is based on VIP-211 and aims to achieve efficient state pruning by utilizing new nodes to mask old nodes.
 Author: Some Author(author@foo.com)
-Discussions: <URL>
+Discussions: https://sherry.discourse.group/t/add-vip-the-ultimate-state-pruner/17
 Category:  Core
 Status: Draft
 CreatedAt: 2023-06-05
