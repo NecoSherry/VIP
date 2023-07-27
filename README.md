@@ -6,7 +6,7 @@ A VIP, which stands for VeChain Improvement Proposal, is a design document that 
 
 Additionally, the author of a VIP carries the responsibility of fostering consensus within the community and documenting any dissenting opinions that may arise during the proposal's evaluation process. This ensures transparency and inclusivity in the decision-making process.
 
-We provide [the status page](./the_status_page.md) listing and tracking VIPs.
+We provide [the status page](./the-status-page.md) listing and tracking VIPs.
 
 
 ## Categories:
@@ -92,7 +92,7 @@ From Vechain EU team:
 + Ben Moran
 + Daithi
 
-Learn more about [the reviewers' guidelines](./reviewers_guidelines.md).
+Learn more about [the reviewers' guidelines](./reviewers-guidelines.md).
 
 
 ## Community
