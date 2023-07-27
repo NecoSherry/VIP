@@ -1,5 +1,5 @@
 ---
-VIP: <# of proposal, will be added by the editors if approved>
+VIP: <# of proposal, will be added by the reviewers if approved>
 Title: <The VIP title is a few words, not a complete sentence>
 Description: <Description is one full (short) sentence>
 Author: <List of the authors name, For example, Name1(@GitHubName or email address), Name2(@GitHubName or email address)>
