@@ -1,5 +1,5 @@
 ---
-VIP: pending
+VIP: 230
 Title: Support Ethereum-format transaction signing
 Description: outlines an upgrade to the core validation of transactions to support transactions signed by Ethereum-based client.
 Author: Oliver Chalk <oliver.chalk@proxima.capital>, Ian McLeod <ian.mcleod@proxima.capital>
