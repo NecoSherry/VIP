@@ -73,12 +73,12 @@ For VIPs in other categories:
 The current VIP reviewers consist of the following members:
 
 From Core dev teams:
-+ Tony Li (@libotony)
-+ Xiqing Chu (@laalaguer)
-+ Mog Lu (@mongelly)
-+ Asbert Ma (@AsbertMa)
-+ Peter zhou (@zzGHzz)
-+ Bin qian (@qianbin)
++ [Tony Li](https://github.com/libotony)
++ [Tofu Chu](https://github.com/laalaguer)
++ [Mog Lu](https://github.com/mongelly)
++ [Asbert Ma](http://github.com/asbertMa/)
++ [Peter Zhou](http://github.com/zzGHzz)
++ [Bin Qian](http://github.com/qianbin)
 
 From well-known community projects:
 + Fabian (VeChainStats) 
