@@ -1,15 +1,13 @@
-
 ---
-VIP: <# of proposal, will be added by the reviewers if approved>
-Title:the title of the proposal
-Description: Description is one full (short) sentence
+Title: the title of the proposal
+Description: short description of this proposal
 Author: Author A(@authora), Author B(author.B@cc.com)
-Discussions: https://vechain.discourse.group/1](https://vechain.discourse.group/t/welcome-to-vechain/5
+Discussions: https://vechain.discourse.group/t/welcome-to-vechain/5
 Category: Core
 Status: Draft
 CreatedAt: 2023-08-08
-
 ---
+
 
 # Overview
 
