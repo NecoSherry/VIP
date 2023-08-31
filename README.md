@@ -80,11 +80,6 @@ From Core dev teams:
 + [Peter Zhou](http://github.com/zzGHzz)
 + [Bin Qian](http://github.com/qianbin)
 
-From well-known community projects:
-+ Fabian (VeChainStats) 
-+ Mario (vechain.energy) 
-+ MiRei (VeBlocks)
-+ NeroMVA (madvape) 
 
 From Vechain EU team:
 + Neil
